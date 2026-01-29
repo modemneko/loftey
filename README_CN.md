@@ -1,7 +1,7 @@
 <div align="center">
 
 # Loftey
-![Loftey Logo](https://raw.githubusercontent.com/modemneko/loftey/main/logo.png)
+![Loftey Logo](https://raw.githubusercontent.com/modemneko/loftey/master/logo.png)
 
 **一个轻量级的基于 Transformer 的语言模型，支持混合专家（Mixture of Experts, MoE）架构**
 
