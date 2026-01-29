@@ -1,6 +1,7 @@
 <div align="center">
 
 # Loftey
+![Loftey Logo](https://raw.githubusercontent.com/modemneko/loftey/master/logo.png)
 
 **A lightweight Transformer-based language model with Mixture of Experts (MoE) support**
 
