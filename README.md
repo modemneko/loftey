@@ -1,7 +1,7 @@
 <div align="center">
 
 # Loftey
-![Loftey Logo](https://raw.githubusercontent.com/modemneko/loftey/master/logo.png)
+***ENGLISH|[简体中文](https://github.com/modemneko/loftey/blob/master/README_CN.md)***
 
 **A lightweight Transformer-based language model with Mixture of Experts (MoE) support**
 
@@ -9,6 +9,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![ModelScope](https://img.shields.io/badge/ModelScope-Loftey-red.svg)](https://www.modelscope.cn/models/LightNeko/loftey-mini-235m)
+
+![Loftey Logo](https://raw.githubusercontent.com/modemneko/loftey/master/logo.png)
 
 </div>
 
