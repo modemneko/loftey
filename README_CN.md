@@ -182,7 +182,7 @@ model = LofteyForCausalLM(config)
 
 ## 致谢
 
-- 235M 参数模型使用 [Qwen3 0.6B](https://www.modelscope.cn/models/qwen/Qwen2.5-0.5B-Instruct) 的 tokenizer 训练
+- 235M 参数模型使用 [Qwen3 0.6B](https://www.modelscope.cn/models/qwen/Qwen3-0.6B-Instruct) 的 tokenizer 训练
 - 模型训练数据来源于 [minimind](https://github.com/jingyaogong/minimind)
 - 基于 [PyTorch](https://pytorch.org/) 和 [HuggingFace Transformers](https://huggingface.co/docs/transformers/) 构建
 
