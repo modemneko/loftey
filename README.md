@@ -182,7 +182,7 @@ If you use Loftey in your research, please consider citing:
 
 ## Acknowledgments
 
-- The 235M parameter model uses the tokenizer from [Qwen3 0.6B](https://www.modelscope.cn/models/qwen/Qwen2.5-0.5B-Instruct)
+- The 235M parameter model uses the tokenizer from [Qwen3 0.6B](https://www.modelscope.cn/models/qwen/Qwen3-0.6B-Instruct)
 - Training data sourced from [minimind](https://github.com/jingyaogong/minimind)
 - Built with [PyTorch](https://pytorch.org/) and [HuggingFace Transformers](https://huggingface.co/docs/transformers/)
 
